@@ -47,7 +47,7 @@ class Form extends Component {
               pattern="^[a-zA-Zа-яА-Я]+(([' -][a-zA-Zа-яА-Я ])?[a-zA-Zа-яА-Я]*)*$"
               placeholder="Enter name"
               required
-            ></input>
+            />
           </label>
           <label>
             <p className={s.form__label}>Number</p>
